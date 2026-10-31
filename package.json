@@ -1,0 +1,13 @@
+{
+  "name": "rolldown-11411-object-freeze-pure",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "verify": "node verify.mjs"
+  },
+  "devDependencies": {
+    "magic-string": "1.4.5",
+    "oxc-parser": "0.156.0",
+    "rolldown": "1.2.16"
+  }
+}
